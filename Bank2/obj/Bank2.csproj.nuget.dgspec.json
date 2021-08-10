@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Repos\\Bank2\\Bank2.csproj": {}
+    "F:\\Repos\\GitHub\\AutoVinCodeRepository\\Bank2\\Bank2.csproj": {}
   },
   "projects": {
-    "F:\\Repos\\Bank2\\Bank2.csproj": {
+    "F:\\Repos\\GitHub\\AutoVinCodeRepository\\Bank2\\Bank2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Repos\\Bank2\\Bank2.csproj",
+        "projectUniqueName": "F:\\Repos\\GitHub\\AutoVinCodeRepository\\Bank2\\Bank2.csproj",
         "projectName": "Bank2",
-        "projectPath": "F:\\Repos\\Bank2\\Bank2.csproj",
+        "projectPath": "F:\\Repos\\GitHub\\AutoVinCodeRepository\\Bank2\\Bank2.csproj",
         "packagesPath": "C:\\Users\\gbran\\.nuget\\packages\\",
-        "outputPath": "F:\\Repos\\Bank2\\obj\\",
+        "outputPath": "F:\\Repos\\GitHub\\AutoVinCodeRepository\\Bank2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
