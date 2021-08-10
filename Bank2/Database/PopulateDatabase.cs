@@ -21,7 +21,7 @@ namespace Bank2.Database
 
 		public void AddRecords()
 		{
-			if (_dbContext.Users.ToList() != null)
+			if (_dbContext.Users.ToList().Count > 0)
 			{
 				return;
 			}
